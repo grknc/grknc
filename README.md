@@ -1,11 +1,15 @@
-
+<img src= "https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif"  width="300" height="200">
 
 ### Hi there, I'm Gürkan. :blush:
-<img src= "https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif" align="right" width="300" height="200">
+
 
 ## Data Scientist | Mechatorincs Engineer | Content Creator
 
+### 
+#### Highly motivated Data Scientist with nearly 3 years commercial experience in Project and contracting companies. Professional knowledge on Python and R; adept at monitoring and receiving data from various data streams including SQL and Excel. 
 
+#### Experienced at creating data regression models, using predictive data modelling, and analyzing data algorithms to deliver insights to complex business problems. 
+Skilled in machine learning, statistics, problem solving, and programming.
 
 ### Reach me out 
 
