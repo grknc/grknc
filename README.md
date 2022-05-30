@@ -13,7 +13,7 @@
 
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][kaggle]
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][youtube]
+[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
 
 <br />
 <br />
