@@ -17,9 +17,9 @@
 
 [<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1200px-Linkedin_Shiny_Icon.svg.png" align="left" />][linkedin]
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][kaggle]
+[<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" align="left" />][kaggle]
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
+[<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" align="left" />][youtube]
 
 
 <br />
