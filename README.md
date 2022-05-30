@@ -15,7 +15,7 @@
 
 
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" align="left" />][linkedin]
 
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/kaggle.svg" align="left" />][kaggle]
 
