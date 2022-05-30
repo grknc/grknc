@@ -45,13 +45,13 @@
 <!-- BLOG-POST-LIST:START -->
 - [Team Goal and Expected Goal Performance Analysis](https://www.kaggle.com/code/mechatronixs/team-goal-and-expected-goal-performance-analysis)
 
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Comparing Milan vs Inter teams using Visualization](https://www.kaggle.com/code/mechatronixs/comparing-milan-vs-inter-teams-using-visualization)
 
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [Machine Learning and Modeling Stroke Data](https://www.kaggle.com/code/mechatronixs/machine-learning-and-modeling-stroke-data)
 
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Visualization-Prediction Analysis Turkey - Update](https://www.kaggle.com/code/mechatronixs/visualization-prediction-analysis-turkey-update)
 
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Covid-19 Countries Visualization & Analysis-Update](https://www.kaggle.com/code/mechatronixs/covid-19-countries-visualization-analysis-update)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
