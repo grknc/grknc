@@ -17,7 +17,7 @@
 
 [<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1200px-Linkedin_Shiny_Icon.svg.png" align="left" />][linkedin]
 
-[<img width="32" src="https://repository-images.githubusercontent.com/181318083/b9500080-7650-11e9-82e2-e7570672ff63" align="left" />][kaggle]
+[<img width="32" src="https://www.ahmetfurkandemir.com/wp-content/uploads/2020/04/Kaggle-Icon.png" align="left" />][kaggle]
 
 [<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" align="left" />][youtube]
 
