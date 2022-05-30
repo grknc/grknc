@@ -1,8 +1,10 @@
-<img src= "https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif" align="right" width="300" height="200">
+
 
 ### Hi there, I'm Gürkan. :blush:
+<img src= "https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif" align="right" width="300" height="200">
 
-## Data Scientist | Youtube Content Creator
+## Data Scientist | Mechatorincs Engineer | Content Creator
+
 
 
 ### Reach me out 
@@ -36,6 +38,18 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" align=left width=25 height=25>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" align=left width=25 height=25>
+
+<br />
+<br />
+<br />
+
+#### Data Preparation : SQL, Excel, Python
+#### Data Analysis : SQL, Python
+#### Data Visualization : Power-BI ,Excel,Python, R, Tableau
+#### Machine Learning/Deep Learning : Python,SPSS, Tenserflow
+
+
+
 
 <br />
 <br />
