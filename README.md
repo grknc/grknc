@@ -3,7 +3,7 @@
 ### Hi there, I'm Gürkan. :blush:
 
 
-## Data Scientist | Mechatorincs Engineer | Content Creator
+## Data Scientist | Mechatronics Engineer | Content Creator
 
 ### 
 #### Highly motivated Data Scientist with nearly 3 years commercial experience in Project and contracting companies. Professional knowledge on Python and R; adept at monitoring and receiving data from various data streams including SQL and Excel. 
