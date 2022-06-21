@@ -79,6 +79,7 @@
 
 <br />
 
+#UPDATE
 <details>
 <summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=grknc&theme=radical">
