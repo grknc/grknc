@@ -29,6 +29,8 @@ def text_check(text):
             new_string += text[text_index].lower()
     print(new_string)
 
+[text[text_index].upper() if text_index % 2 == 0 else text[text_index].lower for text_index in range(len(text))]
+
 text_check("gurkan")
 
 text_new = "python spyder anaconda machine learning"

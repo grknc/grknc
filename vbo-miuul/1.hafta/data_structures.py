@@ -93,7 +93,7 @@ dir(ng)
 #append : eleman ekleme
 
 ng.append("case")
-ng
+
 
 # insert : index eklemek
 
@@ -119,6 +119,8 @@ dictionary["RMD"]
 # key sorgulama
 
 "RMD" in dictionary
+
+dir(dict)
 
 #key e göre value ya erişmek
 
@@ -161,7 +163,12 @@ t = ("jason","statham",35,15)
 t[0]="gg"
 
 # Set
+print("a","b",sep=".")
+print("a","b")
 
+
+def calculate():
+    print()
 # Değiştirilebilir
 # Sırasız ve Eşsizdir.
 # Kapsayıcıdır.
