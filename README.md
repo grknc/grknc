@@ -64,7 +64,8 @@
 <br />
 
 # Projects 
--[Rule-Based-Segmentation](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/projects/rule_based_segmentation.py)
+
+- [Rule-Based-Segmentation](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/projects/rule_based_segmentation.py)
 
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
