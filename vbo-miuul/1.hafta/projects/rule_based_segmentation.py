@@ -286,68 +286,77 @@ agg_df.head()
 
 # Alternative Solution
 
-agg_df_not_ap = agg_df.drop(["AGE","PRICE"],axis=1)
-agg_df_not_ap.head()
+#agg_df_not_ap = agg_df.drop(["AGE","PRICE"],axis=1)
+#agg_df_not_ap.head()
 
-agg_df["customers_level_based"] = ["_".join(i).upper() for i in agg_df_not_ap.values]
-agg_df.drop(["COUNTRY","SOURCE","SEX","AGE","AGE_CAT"],axis=1)
+#agg_df["customers_level_based"] = ["_".join(i).upper() for i in agg_df_not_ap.values]
+#agg_df.drop(["COUNTRY","SOURCE","SEX","AGE","AGE_CAT"],axis=1)
 
 
 # STEP 7
 # Target : Segment new customers_level_based.
 
-agg_df["SEGMENT"] = pd.qcut(agg_df["PRICE"],4 ,labels=["D","C","B","A"])
-agg_df
+agg_df = agg_df.reset_index()
+agg_df_final = agg_df.groupby("customers_level_based").agg({"PRICE" : "mean"})
+agg_df_final
+# Out[163]:
+#                              PRICE
+# customers_level_based
+# BRA_ANDROID_FEMALE_0_18   35.645303
+# BRA_ANDROID_FEMALE_19_23  34.077340
+# BRA_ANDROID_FEMALE_24_30  33.863946
+# BRA_ANDROID_FEMALE_31_40  34.898326
+# BRA_ANDROID_FEMALE_41_70  36.737179
+#                              ...
+# USA_IOS_MALE_0_18         33.983495
+# USA_IOS_MALE_19_23        34.901872
+# USA_IOS_MALE_24_30        34.838143
+# USA_IOS_MALE_31_40        36.206324
+# USA_IOS_MALE_41_70        35.750000
 
 
-agg_df.reset_index(inplace= True)
-agg_df.head()
-# Out[165]:
-#    index COUNTRY   SOURCE     SEX  AGE  PRICE AGE_CAT     customers_level_based SEGMENT
-# 0      0     bra  android    male   46   59.0   41_70    BRA_ANDROID_MALE_41_70       A
-# 1      1     usa  android    male   36   59.0   31_40    USA_ANDROID_MALE_31_40       A
-# 2      2     fra  android  female   24   59.0   24_30  FRA_ANDROID_FEMALE_24_30       A
-# 3      3     usa      ios    male   32   54.0   31_40        USA_IOS_MALE_31_40       A
-# 4      4     deu  android  female   36   49.0   31_40  DEU_ANDROID_FEMALE_31_40       A
-
-agg_df.groupby(["SEGMENT"]).agg({"PRICE":["mean","max","sum"]})
-# Out[166]:
+agg_df_final["SEGMENT"] = pd.qcut(agg_df_final["PRICE"], 4, labels=["D", "C", "B", "A"])
+agg_df_final.groupby("SEGMENT").agg({"PRICE": "mean"})
+# Out[164]:
 #              PRICE
-#               mean        max          sum
 # SEGMENT
-# D        27.302596  31.105263  2375.325850
-# C        32.933339  34.000000  3128.667165
-# B        35.436170  37.000000  2870.329792
-# A        41.434736  59.000000  3521.952577
+# D        29.206780
+# C        33.509674
+# B        34.999645
+# A        38.691234
 
+
+agg_df = agg_df.reset_index()
+agg_df_final = agg_df_final.reset_index()
 
 # STEP 8
 # Target : Classify new customers and estimate how much revenue they can generate.
 
 female_and_tur = 'TUR_ANDROID_FEMALE_31_40'
-agg_df[agg_df["customers_level_based"] == female_and_tur]
-# Out[167]:
-#     index COUNTRY   SOURCE     SEX  AGE      PRICE AGE_CAT     customers_level_based SEGMENT
-# 18     18     tur  android  female   32  43.000000   31_40  TUR_ANDROID_FEMALE_31_40       A
-# 35     35     tur  android  female   31  40.666667   31_40  TUR_ANDROID_FEMALE_31_40       A
+agg_df_final[agg_df_final["customers_level_based"] == female_and_tur]
+# Out[165]:
+#       customers_level_based      PRICE SEGMENT
+# 72  TUR_ANDROID_FEMALE_31_40  41.833333       A
 
 female_ios_fra = 'FRA_IOS_FEMALE_31_40'
-agg_df[agg_df["customers_level_based"] == female_ios_fra]
-# Out[168]:
-#      index COUNTRY SOURCE     SEX  AGE      PRICE AGE_CAT customers_level_based SEGMENT
-# 208    208     fra    ios  female   40  33.000000   31_40  FRA_IOS_FEMALE_31_40       C
-# 221    221     fra    ios  female   31  32.636364   31_40  FRA_IOS_FEMALE_31_40       C
+agg_df_final[agg_df_final["customers_level_based"] == female_ios_fra]
+# Out[166]:
+#   customers_level_based      PRICE SEGMENT
+# 63  FRA_IOS_FEMALE_31_40  32.818182       C
 
 
 female_and_bra = 'BRA_ANDROID_FEMALE_31_40'
-agg_df[agg_df["customers_level_based"] == female_and_bra]
-# Out[169]:
-#      index COUNTRY   SOURCE     SEX  AGE      PRICE AGE_CAT     customers_level_based SEGMENT
-# 19      19     bra  android  female   39  43.000000   31_40  BRA_ANDROID_FEMALE_31_40       A
-# 56      56     bra  android  female   32  39.000000   31_40  BRA_ANDROID_FEMALE_31_40       A
-# 133    133     bra  android  female   31  35.097561   31_40  BRA_ANDROID_FEMALE_31_40       B
-# 158    158     bra  android  female   38  34.555556   31_40  BRA_ANDROID_FEMALE_31_40       B
-# 194    194     bra  android  female   37  33.736842   31_40  BRA_ANDROID_FEMALE_31_40       C
-# 330    330     bra  android  female   34  24.000000   31_40  BRA_ANDROID_FEMALE_31_40       D
+agg_df_final[agg_df_final["customers_level_based"] == female_and_bra]
+# Out[167]:
+#      customers_level_based      PRICE SEGMENT
+# 3  BRA_ANDROID_FEMALE_31_40  34.898326       B
 
 
+agg_df_final.loc[(agg_df_final["SEGMENT"] == "A")].head()
+#Out[168]:
+#       customers_level_based      PRICE SEGMENT
+# 4   BRA_ANDROID_FEMALE_41_70  36.737179       A
+# 9     BRA_ANDROID_MALE_41_70  40.041667       A
+# 11      BRA_IOS_FEMALE_19_23  36.403846       A
+# 25    CAN_ANDROID_MALE_19_23  40.111111       A
+# 27    CAN_ANDROID_MALE_41_70  37.571429       A
