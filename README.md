@@ -63,9 +63,14 @@
 <br />
 <br />
 
+# Projects 
+-[Rule-Based-Segmentation](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/projects/rule_based_segmentation.py)
 
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
+
+- [Exploring Data Analysis on the Titanic Dataset](https://www.kaggle.com/code/mechatronixs/exploring-data-analysis-on-the-titanic)
+
 - [Team Goal and Expected Goal Performance Analysis](https://www.kaggle.com/code/mechatronixs/team-goal-and-expected-goal-performance-analysis)
 
 - [Comparing Milan vs Inter teams using Visualization](https://www.kaggle.com/code/mechatronixs/comparing-milan-vs-inter-teams-using-visualization)
