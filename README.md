@@ -65,6 +65,8 @@
 
 # Projects 
 
+- [FLO Customer Lifetime Value Prediction BG/NBD Gamma Gamma Models](https://github.com/grknc/grknc/blob/main/vbo-miuul/2.hafta/flo_cltv_prediction/flo_cltv_prediction.py)
+
 - [FLO Customer Segmentation with RFM Analysis](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/flo_rfm_project/flo_rfm_project.py)
 
 - [Rule-Based-Segmentation](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/projects/rule_based_segmentation.py)
