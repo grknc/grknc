@@ -65,6 +65,8 @@
 
 # Projects 
 
+- [Customer Segmentation with RFM Analysis](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/flo_rfm_project/flo_rfm_project.py=
+
 - [Rule-Based-Segmentation](https://github.com/grknc/grknc/blob/main/vbo-miuul/1.hafta/projects/rule_based_segmentation.py)
 
 # Latest Kaggle Codes
