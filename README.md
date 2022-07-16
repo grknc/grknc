@@ -74,6 +74,9 @@
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
 
+
+- [Video Title Sorting Reviews and Measurements [EDA]](https://www.kaggle.com/code/mechatronixs/video-title-sorting-reviews-and-measurements-eda/notebook)
+
 - [Customer Segmentation with RFM Analysis](https://www.kaggle.com/code/mechatronixs/customer-segmentation-with-rfm-analysis)
 
 - [Exploring Data Analysis on the Titanic Dataset](https://www.kaggle.com/code/mechatronixs/exploring-data-analysis-on-the-titanic)
