@@ -65,7 +65,7 @@
 
 # Projects 
 
-- [Rating Product & Sorting Reviews in Amazon] (https://github.com/grknc/grknc/blob/main/vbo-miuul/3.hafta-Measurement%20Problems/project/rating_product_sorting_reviews_in_amazon.py)
+- [Rating Product & Sorting Reviews in Amazon](https://github.com/grknc/grknc/blob/main/vbo-miuul/3.hafta-Measurement%20Problems/project/rating_product_sorting_reviews_in_amazon.py)
 
 - [FLO Customer Lifetime Value Prediction BG/NBD Gamma Gamma Models](https://github.com/grknc/grknc/blob/main/vbo-miuul/2.hafta/flo_cltv_prediction/flo_cltv_prediction.py)
 
