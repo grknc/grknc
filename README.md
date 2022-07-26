@@ -63,7 +63,8 @@
 <br />
 <br />
 
-# Projects 
+# Projects
+
 
 - [A/B Test_Averages_of_Two_Different_Groups](https://github.com/grknc/grknc/blob/main/vbo-miuul/3.hafta-Measurement%20Problems/project/AB_Testing.py)
 
@@ -78,6 +79,7 @@
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
 
+- [Association Rule Learning Recommender](https://www.kaggle.com/code/mechatronixs/association-rule-learning-recommender-eda/notebook)
 
 - [Video Title Sorting Reviews and Measurements [EDA]](https://www.kaggle.com/code/mechatronixs/video-title-sorting-reviews-and-measurements-eda/notebook)
 
