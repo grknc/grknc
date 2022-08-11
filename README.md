@@ -79,6 +79,13 @@
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
 
+
+- [Salary Prediction with Regression and CART Model](https://www.kaggle.com/code/mechatronixs/salary-prediction-with-regression-and-cart)
+
+- [Diabetes Prediction & Feature Engineeringl](https://www.kaggle.com/code/mechatronixs/diabetes-prediction-feature-engineering-eda)
+
+- [Telco Churn Prediction with Machine Learning Models (%80 Accuracy)l](https://www.kaggle.com/code/mechatronixs/telco-churn-prediction-feature-engineering-eda)
+
 - [Association Rule Learning Recommender](https://www.kaggle.com/code/mechatronixs/association-rule-learning-recommender-eda/notebook)
 
 - [Video Title Sorting Reviews and Measurements [EDA]](https://www.kaggle.com/code/mechatronixs/video-title-sorting-reviews-and-measurements-eda/notebook)
