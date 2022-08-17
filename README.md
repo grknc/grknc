@@ -65,6 +65,9 @@
 
 # Projects
 
+- [Telco Churn EDA,Feauture Engineering and Modeling](https://github.com/grknc/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.py)
+
+- [Diabetes Feature Engineering](https://github.com/grknc/Diabetes_Feature_Engineering/blob/main/Diabetes_Feature_Engineering.py)
 
 - [A/B Test_Averages_of_Two_Different_Groups](https://github.com/grknc/grknc/blob/main/vbo-miuul/3.hafta-Measurement%20Problems/project/AB_Testing.py)
 
