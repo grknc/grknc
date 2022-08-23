@@ -6,10 +6,10 @@
 ## Data Scientist | Mechatronics Engineer | Content Creator
 
 ### 
-#### Highly motivated Data Scientist with nearly 3 years commercial experience in Project and contracting companies. Professional knowledge on Python and R; adept at monitoring and receiving data from various data streams including SQL and Excel. 
-
-#### Experienced at creating data regression models, using predictive data modelling, and analyzing data algorithms to deliver insights to complex business problems. 
-#### Skilled in machine learning, statistics, problem solving, and programming.
+Highly motivated Data Scientist with nearly 4 years of experience in data-driven solutions in the project and contracting companies.
+Professional knowledge of Python; adept at monitoring and receiving data from various data streams including SQL and Excel. Experienced
+at creating exploratory data analysis, data preprocessing, feature engineering, a n d predictive supervised and unsupervised data
+modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visualization, and Machine Learning Algorithms.
 
 ### Reach me out 
 
