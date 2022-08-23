@@ -52,10 +52,13 @@
 <br />
 <br />
 
-#### Data Preparation : SQL, Excel, Python
-#### Data Analysis : SQL, Python
-#### Data Visualization : Power-BI ,Excel,Python, R, Tableau
-#### Machine Learning/Deep Learning : Python,SPSS, Tenserflow
+#### Languages: Python, R, JavaScript, C++, C#
+#### IDE/Tools: MS Visual Studio, Pycharm, Jupyter Notebook, NetBeans, IntelliJ IDEA, AWS Cloud 9
+#### Database Management: SQL, NoSQL, MySQL, MS Access, Excel
+#### Python Libraries: Pandas, Numpy, Seaborn, Sckit-Learn, SciPy, Matplotlib, TensorFlow, PyTorch, Scrapy
+#### Data Visualization Tools : Microsoft Power-BI , Tableau, Excel, Python
+#### Machine Learning Algorithms : Linear Regression, Logistic Regression, Decision Trees, SVM, kNN, K-Means, Random Forest, GradientBoosting Algorithms(GBM, XGBoost,LightGBM, CatBoost)
+#### Cloud Computing Platforms: Microsoft Azure, AWS, Google Cloud
 
 
 
@@ -82,6 +85,8 @@
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
 
+
+- [K-Means Clustering : Customer Segmentation - Bonus : RFM](https://www.kaggle.com/code/mechatronixs/k-means-clustering-customer-segmentation)
 
 - [Salary Prediction with Regression and CART Model](https://www.kaggle.com/code/mechatronixs/salary-prediction-with-regression-and-cart)
 
