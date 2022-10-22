@@ -29,7 +29,6 @@ modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visual
 
 
 
-[youtube]: https://www.youtube.com/c/SekansFutbol
 [linkedin]: https://www.linkedin.com/in/mgurkanc/
 [kaggle]:  https://www.kaggle.com/mechatronixs
 
