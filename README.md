@@ -3,7 +3,7 @@
 ### Hi there, I'm Gürkan. :blush:
 
 
-## Data Scientist | Mechatronics Engineer | Content Creator
+## Data Scientist | Machine Learning | AI Engineer | Mentor at VBO-Miuul Data Science Bootcamp Program | Content Creator
 
 ### 
 Highly motivated Data Scientist with nearly 4 years of experience in data-driven solutions in the project and contracting companies.
