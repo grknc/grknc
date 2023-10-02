@@ -84,6 +84,9 @@ modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visual
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
 
+-[Predicting Stock Prices Using RNN Model ](https://www.kaggle.com/code/mechatronixs/predicting-stock-prices-rnn-model)
+
+-[Prediction with 7-Classification Models | ROC AUC](https://www.kaggle.com/code/mechatronixs/prediction-with-7-classification-models-roc-auc)
 
 - [K-Means Clustering : Customer Segmentation - Bonus : RFM](https://www.kaggle.com/code/mechatronixs/k-means-clustering-customer-segmentation)
 
