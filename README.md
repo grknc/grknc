@@ -84,6 +84,8 @@ modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visual
 # Latest Kaggle Codes
 <!-- BLOG-POST-LIST:START -->
 
+- [Predicting Service Request Loads using LSTM model with Keras ](https://www.kaggle.com/code/mechatronixs/forecasting-service-loads-using-lstm-model)
+  
 - [Predicting Stock Prices Using RNN Model ](https://www.kaggle.com/code/mechatronixs/predicting-stock-prices-rnn-model)
 
 - [Prediction with 7-Classification Models | ROC AUC](https://www.kaggle.com/code/mechatronixs/prediction-with-7-classification-models-roc-auc)
