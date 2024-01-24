@@ -11,6 +11,19 @@ Professional knowledge of Python; adept at monitoring and receiving data from va
 at creating exploratory data analysis, data preprocessing, feature engineering, a n d predictive supervised and unsupervised data
 modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visualization, and Machine Learning Algorithms.
 
+## Educational Content & Mentorship
+As a seasoned Data Scientist and AI Engineer, I am actively involved in mentoring and educating aspiring data professionals. My mentorship and training program covers a comprehensive range of topics in the field of Data Science and Machine Learning. Here's an overview of the key areas I focus on:
+
+* Python Programming: Fundamental to advanced concepts in Python, tailored for data science applications.
+* CRM Analytics: Techniques and insights for analyzing customer data, improving customer relationships and driving business growth.
+* Measurement Problems in Data Science: Tackling common challenges in data measurement and ensuring data integrity.
+* Recommendation Systems: Developing systems to suggest products or services to users based on their preferences and historical data.
+* Feature Engineering: Techniques for creating and selecting impactful features to improve the performance of machine learning models.
+* Machine Learning: Comprehensive understanding of various machine learning algorithms, from basic to advanced, including supervised and unsupervised learning.
+
+This program is designed to empower participants with practical skills and in-depth knowledge, equipping them to excel in the rapidly evolving field of Data Science. 
+For more information or to participate in my training sessions, feel free to contact me.
+
 ### Reach me out 
 
 
@@ -46,6 +59,11 @@ modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visual
 <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo.png" align=left width=25 height=25>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" align=left width=25 height=25>
+
+<img src="https://logowik.com/content/uploads/images/301_docker.jpg" align=left width=25 height=25> <!-- Docker İkonu -->
+
+<img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" align=left width=25 height=25> <!-- Kubernetes İkonu -->
+
 
 <br />
 <br />
