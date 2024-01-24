@@ -67,6 +67,10 @@ modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visual
 
 # Projects
 
+- [Banking Risk Asssesment: ML](https://github.com/grknc/BankingRiskAssessment)
+
+- [Customer Churn Analysis with Machine Learning](https://github.com/grknc/Customer-Churn-Analyzer-with-ML)
+
 - [Telco Churn EDA,Feauture Engineering and Modeling](https://github.com/grknc/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.py)
 
 - [Diabetes Feature Engineering](https://github.com/grknc/Diabetes_Feature_Engineering/blob/main/Diabetes_Feature_Engineering.py)
