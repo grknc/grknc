@@ -3,7 +3,7 @@
 ### Hi there, I'm Gürkan. :blush:
 
 
-## Data Scientist | Machine Learning | AI Engineer | Mentor at VBO-Miuul Data Science Bootcamp Program | Content Creator
+## Data Scientist | Machine Learning | AI Engineer | Mentor at VBO-Miuul Data Science Bootcamp Program
 
 ### 
 As an experienced Data Scientist, I am focused on enhancing energy systems through data-driven methods. I am an expert in managing large datasets, effective data cleansing, and advanced statistical analysis. I develop predictive machine learning models to forecast energy trends and support strategic decisions.
