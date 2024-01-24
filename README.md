@@ -6,10 +6,23 @@
 ## Data Scientist | Machine Learning | AI Engineer | Mentor at VBO-Miuul Data Science Bootcamp Program | Content Creator
 
 ### 
-Highly motivated Data Scientist with nearly 4 years of experience in data-driven solutions in the project and contracting companies.
-Professional knowledge of Python; adept at monitoring and receiving data from various data streams including SQL and Excel. Experienced
-at creating exploratory data analysis, data preprocessing, feature engineering, a n d predictive supervised and unsupervised data
-modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visualization, and Machine Learning Algorithms.
+As an experienced Data Scientist, I am focused on enhancing energy systems through data-driven methods. I am an expert in managing large datasets, effective data cleansing, and advanced statistical analysis. I develop predictive machine learning models to forecast energy trends and support strategic decisions.
+
+Core Competencies:
+
+* Data Management: Competent in managing large-scale data sources, ensuring data integrity and accessibility.
+
+* Data Cleansing and Transformation: Skilled in improving data quality by correcting inaccuracies and inconsistencies.
+
+* Statistical Analysis: Expert in analyzing complex datasets and identifying significant patterns.
+
+* Machine Learning Development: Proficient in creating predictive models using the latest techniques to improve operational efficiency and trend predictions.
+
+* Data Visualization and Reporting: Talented in creating visuals and reports that effectively communicate data findings.
+
+* Continuous Improvement (CI/CD): Committed to the continuous updating and maintaining the effectiveness of models and processes.
+
+* Time Series Analysis: In-depth knowledge and experience in using time series data to analyze and predict solar energy production and consumption trends.
 
 ## Educational Content & Mentorship
 As a seasoned Data Scientist and AI Engineer, I am actively involved in mentoring and educating aspiring data professionals. My mentorship and training program covers a comprehensive range of topics in the field of Data Science and Machine Learning. Here's an overview of the key areas I focus on:
@@ -32,18 +45,9 @@ For more information or to participate in my training sessions, feel free to con
 
 [<img width="32" src="https://www.ahmetfurkandemir.com/wp-content/uploads/2020/04/Kaggle-Icon.png" align="left" />][kaggle]
 
-[<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" align="left" />][youtube]
-
-
 <br />
 <br />
 <br />
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/mgurkanc/
-[kaggle]:  https://www.kaggle.com/mechatronixs
 
 
 ### Tech I Use
@@ -79,14 +83,13 @@ For more information or to participate in my training sessions, feel free to con
 
 
 
-
 <br />
 <br />
 
 # Projects
 
-- [Banking Risk Asssesment: ML](https://github.com/grknc/BankingRiskAssessment)
-
+- [Banking Risk Asssesment with ML](https://github.com/grknc/Banking-Risk-Assessment-ML)
+  
 - [Customer Churn Analysis with Machine Learning](https://github.com/grknc/Customer-Churn-Analyzer-with-ML)
 
 - [Telco Churn EDA,Feauture Engineering and Modeling](https://github.com/grknc/Telco-Churn-Feature-Engineering/blob/main/Telco_Churn_Feature_Engineering.py)
